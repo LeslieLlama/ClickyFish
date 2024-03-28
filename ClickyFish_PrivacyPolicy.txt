@@ -1,0 +1,14 @@
+Privacy Policy for the android app Clicky Fish. 
+
+Clicky Fish is an extremely simplistic mobile game that was built over the course of a few days, mostly so I could get familiar with the process of uploading a project to the google play store. 
+
+With that in mind, as of writing (29/03/2024) the app collects no data, and only stores data in the form of variables relevant to the function of the game, to track player score and menu selections (volume, character select) 
+
+I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally indetifiable information. all data (score, volume, character selection) is stored locally in your device, and can be simply erased by clearing the apps data or uninstalling it. No analytics software is present in the app as of the date of writing. 
+
+If you find any security issue or vulnerability present in the applicaiton that's been inadvertently caused by my programming, or have any questions regarding the function or security of the app, feel free to send me an email at the below adress. 
+
+Thank you for your time, 
+Leslie Crooks
+Manawatu, New Zealand
+leslieundinecrooks@gmail.com
